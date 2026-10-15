@@ -1,0 +1,16 @@
+# shared
+pandas
+pyarrow
+
+# --source alerce
+pyvo
+
+# --source fink
+requests
+
+# --source dr
+lsdb>=0.8.1
+s3fs
+
+# plot_lc.py
+matplotlib
